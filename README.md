@@ -41,7 +41,7 @@ Here's a list of things I currently keep myself busy with:
   </p>
 
   <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=mrkp.visitor-badge">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=mrkaushal.visitor-badge">
   </p>
 </p>
 
