@@ -33,7 +33,7 @@ Here's a list of things I currently keep myself busy with:
 
   <p align="center">
     <a href="https://facebook.com/ikaushalpatel" alt="Facebook"><img src="Icons/facebook.gif" width="40px"></a>
-    <a href="https://instagram.com/i.kaushal.p" alt="Instagram"><img src="Icons/instagram.gif" width="40px"></a>
+    <a href="https://instagram.com/mr.kaushal.p" alt="Instagram"><img src="Icons/instagram.gif" width="40px"></a>
     <a href="https://twitter.com/ikaushalp" alt="Twitter"><img src="Icons/twitter.gif" width="40px"></a>
     <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="Icons/linkedin.gif" width="40px"></a>
     <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="Icons/mail.gif" width="40px"></a>
