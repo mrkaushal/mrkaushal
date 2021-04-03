@@ -20,7 +20,7 @@ Here's a list of things I currently keep myself busy with:
   - 🌱 I’m currently learning Python, Django, JavaScript and Networking.<!-- - 👯 I’m looking to collaborate on ... -->
   - 🤔 I’m looking for help with Django
   - 💬 Ask me about anything related to Javascript/Python
-  - 📫 How to reach me: [@mr.kaushal.p](https://www.instagram.com/i.kaushal.p)
+  - 📫 How to reach me: [@mr.kaushal.p](https://www.instagram.com/mr.kaushal.p)
   - 😄 Pronouns: He/Him/His
   - ⚡ Fun fact: I :heart: :man_technologist:
 
