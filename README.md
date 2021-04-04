@@ -9,7 +9,7 @@ Here's a list of things I currently keep myself busy with:
 - :man_technologist: Working as a full stack developer over at **GetLocalhost** using [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/)
 - ☀️ Maintaining nothing as of today.
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/mrkaushal)**.
-- 🛠 Getting myself into JAMStack. Trying out [Netlify CMS](https://www.netlifycms.org/), [edX](https://www.edx.org) and [Coursera](https://www.coursera.org/) in my spare time.
+- 🛠 Getting myself into Django. Trying out [Netlify CMS](https://www.netlifycms.org/), [edX](https://www.edx.org) and [Coursera](https://www.coursera.org/) in my spare time.
 
 <details>
   <summary>Some other facts about me</summary>
