@@ -128,8 +128,7 @@ Degree
   </tr>
 </table>
 
- <! ––
-<h2 align="center"><i>🎵 Spotify Status</i></h2>
+<!-- <h2 align="center"><i>🎵 Spotify Status</i></h2>
 <p align="center">
   <a href="https://open.spotify.com/user/0r6t956lbmezmq8uw79uud2wu">
     <img src="https://mrkaushal.vercel.app/api?rainbow=true&scan=true&spin=true&theme=dark" width="60%">
