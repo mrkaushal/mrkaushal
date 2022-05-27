@@ -34,6 +34,13 @@ Degree
   </p>
 </p>
 <hr>
+<h2>Watch my contributions graph eaten by snake 🐍</h2>
+<div align="center">
+<a href="https://github.com/mrkaushal">
+    <img src="https://github.com/mrkaushal/mrkaushal/blob/output/github-contribution-grid-snake.gif" width="100%">
+  </a>
+</div>
+<hr>
 <h2 align='center'><i><a href="https://github.com/mrkaushal">Activity Graph 📈</i></h2>
 <p align="center">
   <a href="https://github.com/mrkaushal">
