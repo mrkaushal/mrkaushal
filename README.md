@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./assets/style.css">
 <img src="assets/header.png" alt="Header image">
 
 # Hi there <img src="assets/wave-hand.gif" width="30px">
@@ -5,6 +6,9 @@
 This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies,
 building small projects, and occassionally joining hackathons✨.
 
+<style>
+
+</style>
 
 <br />
 <img align="right" alt="GIF" src="assets/techstack.gif" width="360px" />
