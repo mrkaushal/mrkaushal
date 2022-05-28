@@ -1,18 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  th, td {
-    
-    text-align: center;
-    border-bottom: 1px solid #000000;
-  }
-  
-  tr:hover {background-color: #FFFFFF;}
-</style>
-
 <img src="assets/header.png" alt="Header image">
 
 # Hi there <img src="assets/wave-hand.gif" width="30px">
