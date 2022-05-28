@@ -1,14 +1,24 @@
-<link rel="stylesheet" href="./assets/style.css">
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    
+    text-align: center;
+    border-bottom: 1px solid #000000;
+  }
+  
+  tr:hover {background-color: #FFFFFF;}
+</style>
+
 <img src="assets/header.png" alt="Header image">
 
 # Hi there <img src="assets/wave-hand.gif" width="30px">
 
 This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies,
 building small projects, and occassionally joining hackathons✨.
-
-<style>
-
-</style>
 
 <br />
 <img align="right" alt="GIF" src="assets/techstack.gif" width="360px" />
