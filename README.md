@@ -6,19 +6,19 @@ This is the place where I open-source stuff and break things :rofl:. I like expe
 building small projects, and occassionally joining hackathons✨.
 
 <br />
-<img align="right" alt="GIF" src="assets/programmer.gif" width="450px" />
+<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
 ### 🧐 More About Me:
 
 - 🏫 &nbsp; I'm student at Charotar University of Science & Technology completing my Computer Science & Engineering
 Degree
 - 🔭 &nbsp; I’m currently working on something cool: FinManager :wink:
-- 🌱 &nbsp; I’m currently learning **Django, Node.js, Networking**
+- 🌱 &nbsp; I’m currently learning **Django, Cloud Computing, AWS**
 - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrkaushal?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mr.kaushal.p/)
-- 📝 &nbsp; Checkout my [resume](https://mrkaushal.com/wp-content/uploads/2021/11/Resume.pdf)
+- 📝 &nbsp; Checkout my [resume](https://mrkaushal.com/wp-content/uploads/2022/05/Kaushal-Resume.pdf)
 - 💬 &nbsp; Ask me about anything related to Django/Python
 - 😄 &nbsp; Pronouns: He/Him/His
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
