@@ -6,7 +6,7 @@ This is the place where I open-source stuff and break things :rofl:. I like expe
 building small projects, and occassionally joining hackathons✨.
 
 <br />
-<img align="right" alt="GIF" src="assets/techstack.gif" width="360px" />
+<img align="right" alt="GIF" src="assets/programmer.gif" width="450px" />
 
 ### 🧐 More About Me:
 
