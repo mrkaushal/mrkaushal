@@ -1,6 +1,6 @@
 <img src="assets/header.png" alt="Header image">
 
-# Hi there <img src="assets/wave-hand.gif" width="30px">
+# Hi there <img src="assets/wave-hand.gif" width="5%">
 
 This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies,
 building small projects, and occassionally joining hackathons✨.
@@ -24,12 +24,12 @@ Degree
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
  &nbsp;<p align="left">
   <p align="left">
-    <a href="https://facebook.com/ikaushalpatel" alt="Facebook"><img src="assets/Icons/facebook.gif" width="40px"></a>
-    <a href="https://instagram.com/mr.kaushal.p" alt="Instagram"><img src="assets/Icons/instagram.gif" width="40px"></a>
-    <a href="https://twitter.com/mr_kaushal_p" alt="Twitter"><img src="assets/Icons/twitter.gif" width="40px"></a>
+    <a href="https://facebook.com/ikaushalpatel" alt="Facebook"><img src="assets/Icons/facebook.gif" width="4%"></a>
+    <a href="https://instagram.com/mr.kaushal.p" alt="Instagram"><img src="assets/Icons/instagram.gif" width="4%"></a>
+    <a href="https://twitter.com/mr_kaushal_p" alt="Twitter"><img src="assets/Icons/twitter.gif" width="4%"></a>
     <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="assets/Icons/linkedin.gif"
-        width="40px"></a>
-    <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
+        width="4%"></a>
+    <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="4%"></a>
   </p>
 </p>
 <hr>
