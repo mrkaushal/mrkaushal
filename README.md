@@ -6,9 +6,10 @@ This is the place where I open-source stuff and break things :rofl:. I like expe
 building small projects, and occassionally joining hackathons✨.
 
 <br />
-<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
 ### 🧐 More About Me:
+
+<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
 - 🏫 &nbsp; I'm student at Charotar University of Science & Technology completing my Computer Science & Engineering
 Degree
@@ -29,7 +30,7 @@ Degree
     <a href="https://twitter.com/mr_kaushal_p" alt="Twitter"><img src="assets/Icons/twitter.gif" width="4%"></a>
     <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="assets/Icons/linkedin.gif"
         width="4%"></a>
-    <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="4%"></a>
+    <a href="mailto:mr.kaushal.p+github@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="4%"></a>
   </p>
 </p>
 <hr>
