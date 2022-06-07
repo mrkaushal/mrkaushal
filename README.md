@@ -18,7 +18,7 @@ Degree
 - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrkaushal?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mr.kaushal.p/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mrkaushalp/)
 - 📝 &nbsp; Checkout my [resume](https://mrkaushal.com/wp-content/uploads/2022/05/Kaushal-Resume.pdf)
 - 💬 &nbsp; Ask me about anything related to Django/Python
 - 😄 &nbsp; Pronouns: He/Him/His
