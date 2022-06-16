@@ -11,8 +11,7 @@ building small projects, and occassionally joining hackathons✨.
 
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
-- 🏫 &nbsp; I'm student at Charotar University of Science & Technology completing my Computer Science & Engineering
-Degree
+- 🏫 &nbsp; I'm student at Charotar University of Science & Technology completing my Bachelor's in Computer Science & Engineering
 - 🔭 &nbsp; I’m currently working on something cool: FinManager :wink:
 - 🌱 &nbsp; I’m currently learning **Django, Cloud Computing, AWS**
 - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal).
