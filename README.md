@@ -52,11 +52,16 @@ building small projects, and occassionally joining hackathons✨.
 <div align="center">
   <a href="https://github.com/mrkaushal/github-readme-stats"><img align="center"
       src="https://github-readme-stats.vercel.app/api?username=mrkaushal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-      alt="Kaushal's github stats" height="170" /></a> &nbsp; &nbsp; <a
+      alt="Kaushal's github stats" height="130" /></a> <a
     href="https://github.com/mrkaushal/github-readme-stats"><img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkaushal&layout=compact&theme=buefy&hide_border=true"
-      height="170" /></a>
-
+      height="130" /></a>
+ <img align="center"
+      src="https://github-readme-streak-stats.herokuapp.com?user=mrkaushal&hide_border=true" alt="Kaushal's github stats" height="130" />
+</div>
+ <br/>
+<div align="center">
+ 
 </div>
 <br/>
 <h2 align='center'><i>Languages and Tools</i></h2>
