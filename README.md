@@ -12,13 +12,13 @@ building small projects, and occassionally joining hackathons✨.
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
 - 🏫 &nbsp; I'm student at Charotar University of Science & Technology completing my Bachelor's in Computer Science & Engineering
-- 🔭 &nbsp; I’m currently working on something cool: IntelligenceMesh :wink:
+- 🔭 &nbsp; I’m currently working on something cool: IntelligenceMesh
 - 🌱 &nbsp; I’m currently learning **Django, Cloud Computing, AWS**
 - ✍️ Writing tech blog posts over at [dev.to](https://dev.to/mrkaushal).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrkaushal?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mrkaushalp/)
-- 📝 &nbsp; Checkout my [resume](https://mrkaushal.com/wp-content/uploads/2022/08/Resume.pdf)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1w2dccUQZaX36Q2aJSK6mgrr6S8mOHWDg/view?usp=sharing)
 - 💬 &nbsp; Ask me about anything related to Django/Python
 - 😄 &nbsp; Pronouns: He/Him/His
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
