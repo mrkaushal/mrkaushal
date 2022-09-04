@@ -39,6 +39,7 @@ building small projects, and occassionally joining hackathons✨.
   </a>
 </div>
 <hr>
+<!-- 
 <h2 align='center'><i><a href="https://github.com/mrkaushal">Activity Graph 📈</i></h2>
 <p align="center">
   <a href="https://github.com/mrkaushal">
@@ -47,6 +48,7 @@ building small projects, and occassionally joining hackathons✨.
       width="100%">
   </a>
 </p>
+-->
 <h2 align="center"><i>Github Stats & Languages Used</i></h2>
 <div align="center">
   <a href="https://github.com/mrkaushal/github-readme-stats"><img align="center"
