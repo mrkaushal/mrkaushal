@@ -69,7 +69,8 @@ building small projects, and occassionally joining hackathons✨.
 </div>
   </details>
   <br/>
-  <a href="https://holopin.io/@mrkaushal"><img src="https://holopin.io/api/user/board?user=mrkaushal" alt="Holopin Card"></a>
+  <h2>Badges</h2>
+  <a href="https://holopin.io/@mrkaushal" target="_blank"><img src="https://holopin.io/api/user/board?user=mrkaushal" alt="Holopin Card"></a>
 <br/>
 <h2 align='center'><i>Languages and Tools</i></h2>
 <table width="100%">
