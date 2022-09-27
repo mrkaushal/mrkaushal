@@ -68,6 +68,8 @@ building small projects, and occassionally joining hackathons✨.
       src="https://github-readme-streak-stats.herokuapp.com?user=mrkaushal&hide_border=true" alt="Kaushal's github stats" height="200" />
 </div>
   </details>
+  <br/>
+  <a href="https://holopin.io/@mrkaushal"><img src="https://holopin.io/api/user/board?user=mrkaushal" alt="Holopin Card"></a>
 <br/>
 <h2 align='center'><i>Languages and Tools</i></h2>
 <table width="100%">
