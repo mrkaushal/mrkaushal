@@ -31,6 +31,7 @@ building small projects, and occassionally joining hackathons✨.
     <a href="mailto:mr.kaushal.p+github@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
   </p>
 </p>
+<!--
 <hr>
 <h2>Watch my contributions graph eaten by snake 🐍</h2>
 <div align="center">
@@ -38,6 +39,7 @@ building small projects, and occassionally joining hackathons✨.
     <img src="https://github.com/mrkaushal/mrkaushal/blob/output/github-contribution-grid-snake.gif" width="100%">
   </a>
 </div>
+-->
 <hr>
 <!-- 
 <h2 align='center'><i><a href="https://github.com/mrkaushal">Activity Graph 📈</i></h2>
