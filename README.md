@@ -18,7 +18,7 @@ building small projects, and occassionally joining hackathons✨.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrkaushal?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mrkaushalp/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1w2dccUQZaX36Q2aJSK6mgrr6S8mOHWDg/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1-TjbOQn7hg4tSmKE0JMtHqfZGXm8UACu/view?usp=sharing)
 - 💬 &nbsp; Ask me about anything related to Django/Python
 - 😄 &nbsp; Pronouns: He/Him/His
 - ⚡ &nbsp; Fun fact: I :heart: :man_technologist:
