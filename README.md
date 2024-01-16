@@ -74,6 +74,16 @@ building small projects, and occassionally joining hackathons✨.
   <h2>Badges</h2>
   <a href="https://holopin.io/@mrkaushal" target="_blank"><img src="https://holopin.io/api/user/board?user=mrkaushal" alt="Holopin Card"></a>
 <br/>
+<div align="center">
+
+  ## Visitor Count
+  <a href="https://profile-counter.glitch.me/mrkaushal/count.svg"><img align="center"
+      src="https://profile-counter.glitch.me/mrkaushal/count.svg" alt="Kaushal's visitor count" /></a>
+</div>
+
+<img src="assets/footer.png" alt="Footer image">
+
+<!--
 <h2 align='center'><i>Languages and Tools</i></h2>
 <table width="100%">
   <tr>
@@ -148,7 +158,7 @@ building small projects, and occassionally joining hackathons✨.
     </td>
   </tr>
 </table>
-
+-->
 <!-- <h2 align="center"><i>🎵 Spotify Status</i></h2>
 <p align="center">
   <a href="https://open.spotify.com/user/0r6t956lbmezmq8uw79uud2wu">
@@ -156,12 +166,3 @@ building small projects, and occassionally joining hackathons✨.
   </a>
 </p>
 -->
-
-<div align="center">
-
-  ## Visitor Count
-  <a href="https://profile-counter.glitch.me/mrkaushal/count.svg"><img align="center"
-      src="https://profile-counter.glitch.me/mrkaushal/count.svg" alt="Kaushal's visitor count" /></a>
-</div>
-
-<img src="assets/footer.png" alt="Footer image">
