@@ -72,9 +72,6 @@ building small projects, and occassionally joining hackathons✨.
 <br/>
 <div align="center">
 
-  ## Visitor Count
-  <a href="https://profile-counter.glitch.me/mrkaushal/count.svg"><img align="center"
-      src="https://profile-counter.glitch.me/mrkaushal/count.svg" alt="Kaushal's visitor count" /></a>
 </div>
 
 <img src="assets/footer.png" alt="Footer image">
