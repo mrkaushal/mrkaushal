@@ -24,7 +24,7 @@ building small projects, and occassionally joining hackathons✨.
     <a href="https://instagram.com/mr.kaushal.p" alt="Instagram"><img src="assets/Icons/instagram.gif" width="40px"></a>
     <a href="https://twitter.com/mr_kaushal_p" alt="Twitter"><img src="assets/Icons/twitter.gif" width="40px"></a>
     <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="assets/Icons/linkedin.gif" width="40px"></a>
-    <a href="mailto:mr.kaushal.p+github@gmail.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
+    <a href="mailto:work@kaushalpatel.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
   </p>
 </p>
 <!--
