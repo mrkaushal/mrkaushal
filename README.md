@@ -9,7 +9,7 @@ building small projects, and occassionally joining hackathons✨.
 
 ### 🧐 More About Me:
 
-<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
+<img align="right" alt="GIF" src="assets/programmer.gif" width="40%" />
 
 - 🌱 &nbsp; I’m currently learning **Django, Cloud Computing, AWS**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mrkaushal?tab=repositories)
@@ -48,15 +48,7 @@ building small projects, and occassionally joining hackathons✨.
 </p>
 -->
 <h2 align="center"><i>Github Stats & Languages Used</i></h2>
-<div align="center">
-  <a href="https://github.com/mrkaushal/github-readme-stats"><img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=mrkaushal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-      alt="Kaushal's github stats" height="170" /></a> <a
-    href="https://github.com/mrkaushal/github-readme-stats"><img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkaushal&layout=compact&theme=buefy&hide_border=true"
-      height="170" /></a>
 
-</div>
  <br/>
  <details>
   <summary>Some other facts</summary>
