@@ -22,7 +22,7 @@ building small projects, and occassionally joining hackathons✨.
   <p align="left">
     <a href="https://facebook.com/ikaushalpatel" alt="Facebook"><img src="assets/Icons/facebook.gif" width="40px"></a>
     <a href="https://instagram.com/mr.kaushal.p" alt="Instagram"><img src="assets/Icons/instagram.gif" width="40px"></a>
-    <a href="https://twitter.com/mr_kaushal_p" alt="Twitter"><img src="assets/Icons/twitter.gif" width="40px"></a>
+    <a href="https://X.com/MrKaushalP" alt="Twitter"><img src="assets/Icons/twitter.gif" width="40px"></a>
     <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="assets/Icons/linkedin.gif" width="40px"></a>
     <a href="mailto:work@kaushalpatel.com" alt="Contact me"><img src="assets/Icons/mail.gif" width="40px"></a>
   </p>
@@ -47,17 +47,17 @@ building small projects, and occassionally joining hackathons✨.
   </a>
 </p>
 -->
-<h2 align="center"><i>Github Stats & Languages Used</i></h2>
+<br/>
 
- <br/>
- <details>
-  <summary>Some other facts</summary>
-  <br>
+<br/>
+<h2 align="center"><i>Github Stats & Languages Used</i></h2>
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&fontFamily=&preferLogin=false">    <img  alt="mrkaushal's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mrkaushal?cardType=level-alternate&fontFamily=&preferLogin=false" />  </a>  <br/>
   <div align="center">
   <img align="center"
       src="https://github-readme-streak-stats.herokuapp.com?user=mrkaushal&hide_border=true" alt="Kaushal's github stats" height="200" />
 </div>
-  </details>
+  
   <br/>
   <h2>Badges</h2>
   <a href="https://holopin.io/@mrkaushal" target="_blank"><img src="https://holopin.io/api/user/board?user=mrkaushal" alt="Holopin Card"></a>
